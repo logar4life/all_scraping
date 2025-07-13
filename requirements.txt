@@ -42,3 +42,4 @@ httpx
 
 selenium_recaptcha_solver
 
+gunicorn
