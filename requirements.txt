@@ -1,0 +1,44 @@
+# Web Scraping and Automation
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+
+# PDF Processing
+PyPDF2
+pdf2image
+Pillow
+fpdf
+PyMuPDF
+
+# OCR and Image Processing
+easyocr
+opencv-python
+numpy
+
+# AI and Text Processing
+openai
+tiktoken
+
+# Data Processing
+pandas
+openpyxl
+
+# REST API Framework
+fastapi
+uvicorn
+python-multipart
+
+# Additional Utilities
+python-dotenv
+aiofiles
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Development and Testing
+pytest
+pytest-asyncio
+httpx
+
+selenium_recaptcha_solver
+
